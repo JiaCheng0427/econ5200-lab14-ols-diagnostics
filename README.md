@@ -1,1 +1,0 @@
-# econ5200-lab14-ols-diagnostics
